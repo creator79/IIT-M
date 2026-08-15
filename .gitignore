@@ -14,3 +14,6 @@ wheels/
 *.xls
 *.xlsx
 *.csv
+
+# Temporary Microsoft Office lock files
+~$*.docx
