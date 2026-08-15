@@ -38,7 +38,7 @@ P04429,49.0,Female,General Medicine,133/66,81.0,99.2,238.0,137.0,Heart Disease,R
 P00569,14.0,Male,Neurology,128/75,74.0,99.4,194.0,87.0,Migraine,Referral,5,74222.97,No,Child,128,75,False,14844.594000000001
 P01510,74.0,Female,Neurology,146/73,66.0,99.4,209.0,131.0,Cancer,Emergency,5,123731.4,Yes,Senior,146,73,True,24746.28
 P07788,36.0,Female,Oncology,126/90,69.0,97.2,168.0,80.0,Heart Disease,Routine,4,75485.41,No,Young Adult,126,90,True,18871.3525
-P00304,150.0,Female,General Medicine,116/93,94.0,98.5,207.0,152.0,Migraine,Referral,5,81852.4,No,Senior,116,93,True,16370.48
+P00304,47.0,Female,General Medicine,116/93,94.0,98.5,207.0,152.0,Migraine,Referral,5,81852.4,No,Middle Age,116,93,True,16370.48
 P07549,61.0,Female,Neurology,122/87,70.0,97.6,212.0,79.0,Infection,Referral,5,72813.46,No,Senior,122,87,False,14562.692000000001
 P05530,46.0,Female,Oncology,136/54,73.0,98.4,193.0,62.0,Heart Disease,Emergency,5,60891.03,No,Middle Age,136,54,False,12178.206
 P01122,69.0,Female,Neurology,134/81,59.0,98.3,156.0,106.0,Asthma,Routine,6,78515.69,No,Senior,134,81,False,13085.948333333334
@@ -398,7 +398,7 @@ P00625,76.0,Female,Pediatrics,166/77,68.0,96.5,196.0,146.0,Fracture,Emergency,3,
 P03711,22.0,Female,General Medicine,157/83,74.0,97.3,209.0,78.0,Cancer,Emergency,6,144099.07,Yes,Young Adult,157,83,True,24016.51166666667
 P03400,40.0,Male,General Medicine,119/92,75.0,99.6,263.0,96.0,Cancer,Routine,6,64639.92,No,Young Adult,119,92,True,10773.32
 P01852,79.0,Male,General Medicine,132/72,93.0,98.4,150.0,102.0,Heart Disease,Emergency,5,128152.66,No,Senior,132,72,False,25630.532
-P07151,150.0,Male,Neurology,141/77,68.0,98.4,195.0,85.0,Cancer,Routine,4,69542.41,No,Senior,141,77,True,17385.6025
+P07151,47.0,Male,Neurology,141/77,68.0,98.4,195.0,85.0,Cancer,Routine,4,69542.41,No,Middle Age,141,77,True,17385.6025
 P08158,29.0,Male,Cardiology,127/74,89.0,99.3,240.0,79.0,Infection,Referral,6,100869.22,Yes,Young Adult,127,74,False,16811.536666666667
 P03308,54.0,Female,Cardiology,117/68,67.0,97.4,212.0,85.0,Diabetes,Emergency,7,73745.04,No,Middle Age,117,68,False,10535.005714285713
 P09144,40.0,Male,Orthopedics,107/69,83.0,97.2,185.0,87.0,Diabetes,Referral,3,82835.1,No,Young Adult,107,69,False,27611.7
@@ -681,7 +681,7 @@ P05130,49.0,Female,Neurology,139/65,90.0,97.2,186.0,60.0,Migraine,Routine,2,6677
 P06726,69.0,Female,Neurology,112/82,71.0,99.1,183.0,93.0,Fracture,Emergency,4,67468.82,Yes,Senior,112,82,False,16867.205
 P02520,32.0,Male,Orthopedics,153/89,87.0,98.2,233.0,84.0,Migraine,Emergency,5,84194.32,Yes,Young Adult,153,89,True,16838.864
 P02459,56.0,Female,Oncology,156/104,68.0,98.6,254.0,88.0,Heart Disease,Routine,4,42933.55,No,Middle Age,156,104,True,10733.3875
-P00684,-5.0,Male,General Medicine,117/77,55.0,98.5,146.0,154.0,Infection,Routine,2,52628.8,No,Child,117,77,True,26314.4
+P00684,47.0,Male,General Medicine,117/77,55.0,98.5,146.0,154.0,Infection,Routine,2,52628.8,No,Middle Age,117,77,True,26314.4
 P07323,39.0,Female,Neurology,120/91,116.0,99.8,193.0,126.0,Fracture,Routine,3,89102.51,Yes,Young Adult,120,91,True,29700.836666666666
 P06389,63.0,Female,Cardiology,135/75,71.0,98.7,206.0,92.0,Hypertension,Referral,3,46523.2,No,Senior,135,75,False,15507.733333333332
 P03904,31.0,Male,Pediatrics,114/78,63.0,99.7,181.0,129.0,Fracture,Routine,7,127933.85,Yes,Young Adult,114,78,False,18276.264285714286
@@ -1213,7 +1213,7 @@ P04129,47.0,Male,Orthopedics,112/79,57.0,98.7,104.0,94.0,Hypertension,Referral,3
 P04473,71.0,Female,Pediatrics,114/61,85.0,100.4,233.0,107.0,Migraine,Routine,3,39109.75,No,Senior,114,61,False,13036.583333333334
 P03895,40.0,Female,General Medicine,115/72,60.0,98.4,129.0,64.0,Diabetes,Routine,3,64974.49,No,Young Adult,115,72,False,21658.163333333334
 P07096,17.0,Male,General Medicine,117/87,78.0,97.0,209.0,107.0,Fracture,Referral,8,148229.52,No,Child,117,87,False,18528.69
-P06801,-5.0,Male,General Medicine,145/64,90.0,98.7,157.0,162.0,Cancer,Referral,4,78841.67,No,Child,145,64,True,19710.4175
+P06801,47.0,Male,General Medicine,145/64,90.0,98.7,157.0,162.0,Cancer,Referral,4,78841.67,No,Middle Age,145,64,True,19710.4175
 P07110,54.0,Male,Oncology,145/84,83.0,96.8,230.0,125.0,Heart Disease,Routine,5,130826.83,No,Middle Age,145,84,True,26165.366
 P07673,54.0,Female,Cardiology,130/101,85.0,97.1,208.0,95.0,Migraine,Routine,7,109645.58,No,Middle Age,130,101,True,15663.654285714287
 P06261,73.0,Male,Oncology,160/76,83.0,95.7,145.0,60.0,Infection,Routine,5,80267.68,No,Senior,160,76,True,16053.535999999998
@@ -1412,7 +1412,7 @@ P00748,34.0,Male,Orthopedics,120/78,58.0,96.9,193.0,60.0,Asthma,Routine,6,103219
 P09074,74.0,Male,Cardiology,121/75,88.0,99.1,208.0,94.0,Migraine,Routine,6,160347.58,No,Senior,121,75,False,26724.596666666665
 P00348,22.0,Female,Neurology,98/84,99.0,99.0,155.0,148.0,Heart Disease,Referral,5,84296.86,No,Young Adult,98,84,True,16859.372
 P03768,71.0,Female,Orthopedics,107/57,68.0,99.0,154.0,97.0,Heart Disease,Routine,4,94521.04,No,Senior,107,57,False,23630.26
-P08175,-5.0,Male,Orthopedics,127/92,74.0,98.4,189.0,99.0,Diabetes,Emergency,3,68268.64,Yes,Child,127,92,True,22756.213333333333
+P08175,47.0,Male,Orthopedics,127/92,74.0,98.4,189.0,99.0,Diabetes,Emergency,3,68268.64,Yes,Middle Age,127,92,True,22756.213333333333
 P08107,47.0,Female,General Medicine,170/87,91.0,98.4,187.0,123.0,Asthma,Emergency,3,77400.42,No,Middle Age,170,87,True,25800.14
 P08561,40.0,Male,Orthopedics,112/91,65.0,98.2,169.0,133.0,Fracture,Routine,5,70719.17,No,Young Adult,112,91,True,14143.833999999999
 P09809,10.0,Female,Oncology,144/67,79.0,96.9,195.0,60.0,Infection,Emergency,8,133833.65,No,Child,144,67,True,16729.20625
@@ -1611,7 +1611,7 @@ P03182,57.0,Male,Oncology,112/70,80.0,98.1,139.0,60.0,Diabetes,Routine,9,174015.
 P06714,53.0,Male,Cardiology,80/115,91.0,98.5,111.0,60.0,Infection,Referral,8,167748.96,No,Middle Age,80,115,True,20968.62
 P01741,46.0,Female,Neurology,130/69,84.0,100.4,140.0,83.0,Fracture,Referral,3,94896.17,No,Middle Age,130,69,False,31632.056666666667
 P04044,53.0,Male,General Medicine,92/77,55.0,98.7,162.0,82.0,Migraine,Emergency,6,86008.07,No,Middle Age,92,77,False,14334.678333333335
-P00555,150.0,Female,Pediatrics,129/54,53.0,97.6,223.0,132.0,Heart Disease,Routine,5,85293.98,No,Senior,129,54,False,17058.796
+P00555,47.0,Female,Pediatrics,129/54,53.0,97.6,223.0,132.0,Heart Disease,Routine,5,85293.98,No,Middle Age,129,54,False,17058.796
 P05077,48.0,Male,Oncology,112/83,98.0,96.3,201.0,123.0,Hypertension,Referral,7,135738.29,No,Middle Age,112,83,False,19391.184285714287
 P00512,47.0,Male,Cardiology,115/77,62.0,98.3,195.0,178.0,Asthma,Referral,5,117004.26,No,Middle Age,115,77,True,23400.852
 P02099,20.0,Male,Orthopedics,129/76,88.0,98.6,200.0,77.0,Heart Disease,Routine,3,88555.47,No,Young Adult,129,76,False,29518.49
@@ -2089,7 +2089,7 @@ P08205,40.0,Male,Orthopedics,118/73,71.0,98.9,170.0,103.0,Fracture,Referral,3,69
 P07190,11.0,Female,Oncology,136/67,83.0,97.5,223.0,74.0,Infection,Emergency,2,53462.24,No,Child,136,67,False,26731.12
 P03772,39.0,Male,Cardiology,124/77,83.0,98.0,150.0,60.0,Heart Disease,Emergency,6,115729.3,No,Young Adult,124,77,False,19288.216666666667
 P00018,53.0,Male,Orthopedics,141/70,73.0,98.0,164.0,64.0,Migraine,Routine,6,104241.07,No,Middle Age,141,70,True,17373.51166666667
-P01771,-5.0,Female,Cardiology,134/77,77.0,100.0,189.0,131.0,Asthma,Referral,8,95832.96,No,Child,134,77,False,11979.12
+P01771,47.0,Female,Cardiology,134/77,77.0,100.0,189.0,131.0,Asthma,Referral,8,95832.96,No,Middle Age,134,77,False,11979.12
 P01889,39.0,Male,Oncology,130/72,84.0,98.1,175.0,104.0,Migraine,Routine,4,113299.72,No,Young Adult,130,72,False,28324.93
 P01643,46.0,Male,Oncology,114/83,72.0,99.2,173.0,158.0,Hypertension,Routine,5,125834.38,No,Middle Age,114,83,True,25166.876
 P00133,28.0,Female,Pediatrics,104/76,83.0,97.9,156.0,88.0,Hypertension,Emergency,5,73869.62,No,Young Adult,104,76,False,14773.923999999999
@@ -2453,7 +2453,7 @@ P09418,54.0,Female,Pediatrics,135/68,56.0,100.2,228.0,109.0,Asthma,Routine,6,124
 P04271,45.0,Female,Oncology,96/94,63.0,98.7,152.0,137.0,Hypertension,Routine,5,84524.46,No,Middle Age,96,94,True,16904.892
 P02112,45.0,Female,General Medicine,119/58,88.0,99.7,217.0,110.0,Asthma,Emergency,6,165182.4,No,Middle Age,119,58,False,27530.399999999998
 P08761,65.0,Female,Cardiology,110/81,85.0,98.1,222.0,121.0,Asthma,Emergency,7,179583.39,Yes,Senior,110,81,False,25654.77
-P02920,-5.0,Male,Cardiology,157/76,86.0,98.7,139.0,82.0,Heart Disease,Routine,3,42391.19,Yes,Child,157,76,True,14130.396666666667
+P02920,47.0,Male,Cardiology,157/76,86.0,98.7,139.0,82.0,Heart Disease,Routine,3,42391.19,Yes,Middle Age,157,76,True,14130.396666666667
 P04415,51.0,Male,Oncology,147/85,73.0,99.6,185.0,101.0,Infection,Referral,5,55396.13,Yes,Middle Age,147,85,True,11079.225999999999
 P01018,39.0,Male,General Medicine,139/96,114.0,96.6,160.0,122.0,Cancer,Emergency,3,54499.69,No,Young Adult,139,96,True,18166.563333333335
 P04819,59.0,Male,General Medicine,109/64,80.0,98.4,147.0,116.0,Migraine,Emergency,3,58998.02,No,Middle Age,109,64,False,19666.006666666664
@@ -3773,7 +3773,7 @@ P01025,79.0,Female,Orthopedics,80/85,81.0,98.5,195.0,105.0,Migraine,Emergency,7,
 P07657,75.0,Male,Cardiology,137/53,82.0,98.2,207.0,70.0,Fracture,Emergency,7,153625.81,No,Senior,137,53,False,21946.544285714284
 P00753,30.0,Female,General Medicine,130/76,73.0,100.5,224.0,123.0,Migraine,Emergency,3,49798.87,Yes,Young Adult,130,76,False,16599.623333333333
 P04114,20.0,Male,Oncology,124/87,105.0,98.1,197.0,73.0,Asthma,Emergency,5,104368.6,No,Young Adult,124,87,True,20873.72
-P09773,-5.0,Female,Cardiology,118/62,97.0,98.4,171.0,124.0,Cancer,Emergency,10,162966.28,No,Child,118,62,False,16296.628
+P09773,47.0,Female,Cardiology,118/62,97.0,98.4,171.0,124.0,Cancer,Emergency,10,162966.28,No,Middle Age,118,62,False,16296.628
 P05520,20.0,Female,Oncology,143/79,68.0,96.5,214.0,126.0,Cancer,Emergency,3,67314.43,No,Young Adult,143,79,True,22438.14333333333
 P01952,70.0,Male,Cardiology,119/90,77.0,97.9,202.0,139.0,Fracture,Emergency,4,62063.43,No,Senior,119,90,True,15515.8575
 P05095,45.0,Male,Neurology,142/75,88.0,98.8,160.0,72.0,Cancer,Emergency,3,54389.9,No,Middle Age,142,75,True,18129.966666666667
@@ -4310,7 +4310,7 @@ P08187,58.0,Female,General Medicine,183/103,83.0,97.1,153.0,110.0,Infection,Emer
 P09877,82.0,Female,Cardiology,102/63,83.0,96.8,184.0,99.0,Hypertension,Emergency,3,84209.11,No,Senior,102,63,False,28069.703333333335
 P09921,29.0,Male,Cardiology,139/74,83.0,98.4,206.0,103.0,Asthma,Routine,6,86089.2,No,Young Adult,139,74,False,14348.199999999999
 P06215,31.0,Female,Orthopedics,161/83,88.0,98.9,201.0,127.0,Hypertension,Emergency,3,52148.36,No,Young Adult,161,83,True,17382.786666666667
-P02156,-5.0,Male,Cardiology,153/78,63.0,98.0,166.0,60.0,Hypertension,Routine,7,186112.26,Yes,Child,153,78,True,26587.465714285714
+P02156,47.0,Male,Cardiology,153/78,63.0,98.0,166.0,60.0,Hypertension,Routine,7,186112.26,Yes,Middle Age,153,78,True,26587.465714285714
 P06868,33.0,Male,Cardiology,142/73,49.0,98.0,168.0,129.0,Cancer,Routine,4,113846.46,No,Young Adult,142,73,True,28461.615
 P03716,45.0,Male,General Medicine,134/62,84.0,100.1,198.0,121.0,Cancer,Routine,4,62917.52,No,Middle Age,134,62,False,15729.38
 P04058,56.0,Female,Neurology,116/74,80.0,97.8,208.0,76.0,Asthma,Emergency,4,87757.4,Yes,Middle Age,116,74,False,21939.35
@@ -5833,7 +5833,7 @@ P03850,22.0,Female,Cardiology,139/63,82.0,96.2,265.0,110.0,Diabetes,Referral,2,4
 P09946,15.0,Male,General Medicine,128/77,62.0,99.0,227.0,116.0,Hypertension,Referral,5,101486.08,No,Child,128,77,False,20297.216
 P08491,70.0,Female,Oncology,160/80,84.0,98.1,195.0,60.0,Infection,Emergency,4,64918.29,No,Senior,160,80,True,16229.5725
 P05254,21.0,Female,Cardiology,151/64,93.0,99.4,194.0,128.0,Infection,Emergency,4,77367.92,No,Young Adult,151,64,True,19341.98
-P08060,-5.0,Male,Cardiology,149/92,92.0,99.6,201.0,134.0,Heart Disease,Emergency,7,197002.43,No,Child,149,92,True,28143.204285714284
+P08060,47.0,Male,Cardiology,149/92,92.0,99.6,201.0,134.0,Heart Disease,Emergency,7,197002.43,No,Middle Age,149,92,True,28143.204285714284
 P05534,51.0,Female,Pediatrics,146/69,62.0,100.0,129.0,84.0,Asthma,Routine,9,233368.73,No,Middle Age,146,69,True,25929.85888888889
 P02415,66.0,Male,Oncology,119/78,75.0,98.0,172.0,102.0,Hypertension,Routine,5,49442.77,No,Senior,119,78,False,9888.554
 P03555,14.0,Male,General Medicine,157/81,63.0,98.4,218.0,118.0,Migraine,Emergency,6,102640.93,No,Child,157,81,True,17106.821666666667
@@ -6146,7 +6146,7 @@ P02402,51.0,Female,Neurology,125/76,69.0,98.8,155.0,105.0,Cancer,Routine,7,13872
 P05521,34.0,Male,Oncology,104/90,64.0,99.7,179.0,60.0,Hypertension,Referral,6,112029.75,No,Young Adult,104,90,True,18671.625
 P01217,35.0,Female,Neurology,106/95,79.0,99.4,231.0,129.0,Heart Disease,Referral,4,59142.79,No,Young Adult,106,95,True,14785.6975
 P09603,51.0,Female,General Medicine,91/86,103.0,98.3,211.0,97.0,Diabetes,Emergency,7,163526.48,No,Middle Age,91,86,True,23360.925714285717
-P06021,-5.0,Male,Pediatrics,107/82,84.0,98.8,178.0,111.0,Infection,Routine,4,116787.01,No,Child,107,82,False,29196.7525
+P06021,47.0,Male,Pediatrics,107/82,84.0,98.8,178.0,111.0,Infection,Routine,4,116787.01,No,Middle Age,107,82,False,29196.7525
 P07217,37.0,Female,Pediatrics,116/86,74.0,98.6,117.0,124.0,Cancer,Emergency,3,80133.7,No,Young Adult,116,86,False,26711.233333333334
 P01065,41.0,Female,Oncology,156/71,80.0,99.1,182.0,93.0,Asthma,Routine,6,147355.34,No,Middle Age,156,71,True,24559.22333333333
 P03787,53.0,Male,Oncology,162/97,77.0,98.7,258.0,142.0,Fracture,Routine,2,36094.25,No,Middle Age,162,97,True,18047.125
@@ -6690,7 +6690,7 @@ P04936,57.0,Male,Neurology,106/79,82.0,97.6,199.0,105.0,Hypertension,Emergency,2
 P03936,54.0,Female,Orthopedics,138/85,74.0,99.0,186.0,105.0,Infection,Routine,2,34188.14,No,Middle Age,138,85,False,17094.07
 P08402,68.0,Female,Oncology,151/71,67.0,98.2,179.0,65.0,Hypertension,Routine,3,75741.53,No,Senior,151,71,True,25247.176666666666
 P02385,48.0,Male,Cardiology,151/104,68.0,97.6,235.0,128.0,Fracture,Routine,6,124474.74,No,Middle Age,151,104,True,20745.79
-P00116,150.0,Male,Oncology,117/66,79.0,98.7,189.0,187.0,Asthma,Referral,5,135720.88,No,Senior,117,66,True,27144.176
+P00116,47.0,Male,Oncology,117/66,79.0,98.7,189.0,187.0,Asthma,Referral,5,135720.88,No,Middle Age,117,66,True,27144.176
 P01864,16.0,Female,Orthopedics,149/98,74.0,97.7,199.0,86.0,Hypertension,Emergency,6,121045.27,No,Child,149,98,True,20174.211666666666
 P03120,77.0,Male,General Medicine,112/85,76.0,99.9,229.0,137.0,Asthma,Emergency,4,97992.67,No,Senior,112,85,False,24498.1675
 P04259,47.0,Male,Oncology,96/112,73.0,97.4,225.0,83.0,Asthma,Routine,7,181900.02,No,Middle Age,96,112,True,25985.717142857142
@@ -8486,7 +8486,7 @@ P02357,41.0,Male,General Medicine,110/69,90.0,99.3,190.0,118.0,Fracture,Emergenc
 P01928,42.0,Female,Cardiology,168/60,103.0,98.4,223.0,65.0,Fracture,Emergency,2,65927.79,No,Middle Age,168,60,True,32963.895
 P09427,30.0,Female,Oncology,112/81,71.0,100.0,193.0,91.0,Migraine,Routine,4,68979.94,No,Young Adult,112,81,False,17244.985
 P03428,72.0,Female,Oncology,115/85,58.0,98.1,195.0,60.0,Infection,Emergency,2,26676.65,No,Senior,115,85,False,13338.325
-P03639,-5.0,Male,Oncology,139/74,57.0,99.9,206.0,105.0,Infection,Emergency,6,146178.4,No,Child,139,74,False,24363.066666666666
+P03639,47.0,Male,Oncology,139/74,57.0,99.9,206.0,105.0,Infection,Emergency,6,146178.4,No,Middle Age,139,74,False,24363.066666666666
 P01267,45.0,Female,Pediatrics,111/84,56.0,99.5,231.0,107.0,Heart Disease,Routine,5,91904.58,No,Middle Age,111,84,False,18380.916
 P01561,47.0,Male,Cardiology,142/106,59.0,97.7,195.0,158.0,Migraine,Referral,3,69121.08,No,Middle Age,142,106,True,23040.36
 P07180,34.0,Male,Orthopedics,128/64,94.0,98.1,216.0,151.0,Diabetes,Routine,6,147063.04,No,Young Adult,128,64,True,24510.506666666668
@@ -8980,7 +8980,7 @@ P02483,83.0,Female,Orthopedics,170/53,68.0,99.4,217.0,114.0,Fracture,Emergency,4
 P01760,71.0,Male,Orthopedics,135/75,80.0,98.1,242.0,160.0,Diabetes,Routine,3,60188.02,No,Senior,135,75,True,20062.673333333332
 P04423,47.0,Male,Pediatrics,97/76,60.0,98.9,195.0,122.0,Diabetes,Routine,5,122163.62,No,Middle Age,97,76,False,24432.724
 P06705,43.0,Male,Oncology,121/86,78.0,100.4,255.0,136.0,Cancer,Routine,5,109922.12,No,Middle Age,121,86,True,21984.424
-P05183,150.0,Female,Pediatrics,120/73,86.0,99.1,186.0,64.0,Infection,Routine,9,142863.74,No,Senior,120,73,False,15873.748888888887
+P05183,47.0,Female,Pediatrics,120/73,86.0,99.1,186.0,64.0,Infection,Routine,9,142863.74,No,Middle Age,120,73,False,15873.748888888887
 P08534,72.0,Female,Orthopedics,102/70,68.0,100.0,165.0,108.0,Migraine,Routine,3,61467.19,Yes,Senior,102,70,False,20489.063333333335
 P03702,74.0,Male,Orthopedics,80/87,85.0,98.9,179.0,130.0,Asthma,Emergency,3,50486.36,No,Senior,80,87,False,16828.786666666667
 P04244,60.0,Female,Pediatrics,138/66,74.0,97.4,259.0,82.0,Hypertension,Referral,7,145625.99,No,Middle Age,138,66,True,20803.712857142855
