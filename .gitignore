@@ -11,9 +11,6 @@ wheels/
 
 # Documents
 *.pdf
-*.xls
-*.xlsx
-*.csv
 
 # Temporary Microsoft Office lock files
 ~$*.docx
